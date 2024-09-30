@@ -61,7 +61,8 @@ Any advice for common problems or issues.
 
 ## Authors
 
--Jiya Mittal
+-Hridaya Madaan
+phri2898@gmail.com 
 
 ## License
 
