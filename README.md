@@ -8,7 +8,7 @@ This project includes an ERC20 token contract and a vault contract. The ERC20 to
 
 ### Prerequisites
 
-* Remix compiler
+* Remix IDE compiler 
 
 
 ### Executing program
